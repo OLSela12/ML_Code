@@ -1,2 +1,2 @@
-# Pyhon
+# Python
 Introduction to Python
